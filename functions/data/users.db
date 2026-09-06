@@ -12,5 +12,3 @@
 {"id":2,"fullName":"Albert Spelllknight","idNumber":"21209991","username":"21209991","password":"albert@7532eb43","email":"albert@castmail.com","batch":"2020","category":"Engineering Department","role":"user","has_voted":false,"vote":null,"voted_at":null,"_id":"u9wvH5QVrKUfewB7"}
 {"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"nim","unique":false,"sparse":false}}
-{"$$indexCreated":{"fieldName":"username","unique":true}}
-{"$$indexCreated":{"fieldName":"nim","unique":false}}
